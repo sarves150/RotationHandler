@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikalp\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\WorkspaceStudioLatest\RotationHandleFragment\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_5a12255bcd81b0f57f0a2f6e02ea3c8b74d6b76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkspaceStudioLatest\RotationHandleFragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\WorkspaceStudioLatest\RotationHandleFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_42a0c516f8e15019dae9f6a316ad3d933d57b159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikalp\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\WorkspaceStudioLatest\RotationHandleFragment\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_d18dd9ca010056c943e9cf04d240fd2bcf3d33ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkspaceStudioLatest\RotationHandleFragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\WorkspaceStudioLatest\RotationHandleFragment\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_e7d68a38246447c25f79a468f5ad55746481b139.jar" />
+    </item>
+
+</items>
